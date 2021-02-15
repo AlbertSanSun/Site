@@ -15,15 +15,12 @@ export default () => (
         width="250"
         alt="Vercel + Notion"
       />
-      <h1>My Notion Blog</h1>
+      <h1>Hey Guys!!</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
+        This is me'{' '}
         <ExtLink
-          href="https://github.com/vercel/next.js/issues/9524"
-          className="dotted"
-          style={{ color: 'inherit' }}
-        >
-          SSG
+          href="https://scratch.mit.edu/users/-SanSun-/"
+         -SanSun-
         </ExtLink>
       </h2>
 
@@ -31,6 +28,7 @@ export default () => (
 
       <div className="explanation">
         <p>
+          About the Site:
           This is a statically generated{' '}
           <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
           <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
@@ -45,7 +43,11 @@ export default () => (
           </ExtLink>{' '}
           which allow us to achieve all of the benefits listed above including
           blazing fast speeds, great local editing experience, and always being
-          available!
+          available! 
+          Link of the Repository which I used to Build the Site is{''}
+          <ExtLink href="https://github.com/ijjk/notion-blog">
+            Here
+          </ExtLink>
         </p>
 
         <p>
