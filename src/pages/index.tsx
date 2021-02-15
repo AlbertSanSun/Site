@@ -9,7 +9,7 @@ export default () => (
   <>
     <Header titlePre="Home" />
     
-      />
+      </>
       <h1>Hey Guys!!</h1>
       <h2>
         This is me{' '}
