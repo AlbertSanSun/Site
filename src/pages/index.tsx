@@ -8,16 +8,10 @@ import sharedStyles from '../styles/shared.module.css'
 export default () => (
   <>
     <Header titlePre="Home" />
-    
-      </>
-      <h1>Hey Guys!!</h1>
-      <h2>
-        This is me{' '}
-        <ExtLink>
-          href="https://scratch.mit.edu/users/-SanSun-/"
-         SanSun
-        </ExtLink>
-      </h2>
+    <div className={sharedStyles.layout}>
+      <img src="/demo.png" width="60%" alt="page top" />
+      <h1>Koji Notion Blog</h1>
+      <h2></h2>
 
       <Features />
 
