@@ -58,6 +58,5 @@ export default () => (
           
         </p>
       </div>
-    </div>
   </>
 )
