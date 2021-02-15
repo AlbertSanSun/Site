@@ -12,10 +12,10 @@ export default () => (
       />
       <h1>Hey Guys!!</h1>
       <h2>
-        This is me'{' '}
+        This is me{' '}
         <ExtLink
           href="https://scratch.mit.edu/users/-SanSun-/"
-         -SanSun-
+         SanSun
         </ExtLink>
       </h2>
 
