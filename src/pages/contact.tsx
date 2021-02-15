@@ -12,7 +12,7 @@ import LinkedIn from '../components/svgs/linkedin'
 const contacts = [
   {
     Comp: Twitter,
-    alt: 'twitter icon',
+    alt: '',
     link: '',
   },
   {
@@ -22,7 +22,7 @@ const contacts = [
   },
   {
     Comp: LinkedIn,
-    alt: 'linkedin icon',
+    alt: '',
     link: '',
   },
   {
