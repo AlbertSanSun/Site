@@ -27,10 +27,8 @@ import sharedStyles from '../styles/shared.module.css'
           My real name is Sanjay, but I would really like you to call me SanSun or AlbertSanSun on the Internet.
           I am currently in grade 8th and currently learning python, JS, HTML. I love Maths and Science and 
           I'm really good at them. I have created many Youtube Channels (and deleted a lot of them, because I couldn't manage
-          them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...{''}
-          <ExtLink href="https://github.com/AlbertSanSun">
-            Look at my Github Page for more facts and stuff...
-          </ExtLink>
+          them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...
+          Look at my Github Page for more facts and stuff...
           I will upload my videos sometime during April and May, stay tuned. (is the word "tuned" the right word to be used in this sentence?)
 
         <p>
