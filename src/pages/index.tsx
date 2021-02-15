@@ -51,17 +51,16 @@ export default () => (
         </p>
 
         <p>
-          Get started by creating a new page in Notion and clicking the deploy
-          button below. After you supply your token and the blog index id (the
-          page's id in Notion) we will automatically create the table for you!
-          See{' '}
-          <ExtLink href="https://github.com/ijjk/notion-blog#getting-blog-index-and-token">
-            here in the readme
-          </ExtLink>{' '}
-          for finding the new page's id. To get your token from Notion, login
-          and look for a cookie under www.notion.so with the name `token_v2`.
-          After finding your token and your blog's page id you should be good to
-          go!
+          Now about me.
+          My real name is Sanjay, but I would really like you to call me SanSun or AlbertSanSun on the Internet.
+          I am currently in grade 8th and currently learning python, JS, HTML. I love Maths and Science and 
+          I'm really good at them. I have created many Youtube Channels (and deleted a lot of them, because I couldn't manage
+          them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...{''}
+          <ExtLink href="https://github.com/AlbertSanSun">
+            Look at my Github Page for more facts and stuff...
+          </ExtLink>
+          I will upload my videos sometime during April and May, stay tuned. (is the word "tuned" the right word to be used in this sentence?)
+          
         </p>
       </div>
     </div>
