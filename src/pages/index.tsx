@@ -13,7 +13,7 @@ export default () => (
       <h1>Hey Guys!!</h1>
       <h2>
         This is me{' '}
-        <ExtLink
+        <ExtLink>
           href="https://scratch.mit.edu/users/-SanSun-/"
          SanSun
         </ExtLink>
