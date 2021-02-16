@@ -16,7 +16,8 @@ export default () => (
       {/* <Features /> */}
 
       <div className="explanation">
-        <p>About this site:<br>
+        <p>
+          About this site:
            Go to the site's Github Repository.
           
           Now about the owner of this site:
