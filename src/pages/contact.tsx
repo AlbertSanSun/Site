@@ -11,7 +11,7 @@ import LinkedIn from '../components/svgs/linkedin'
 
 const contacts = [
   {
-    Comp: Twitter,
+    Comp: ,
     alt: '',
     link: '',
   },
@@ -21,7 +21,7 @@ const contacts = [
     link: 'https://github.com/AlbertSanSun',
   },
   {
-    Comp: LinkedIn,
+    Comp: ,
     alt: '',
     link: '',
   },
@@ -43,7 +43,7 @@ export default () => (
       <h1 style={{ marginTop: 0 }}>Contact</h1>
 
       <div className={contactStyles.name}>
-        -SanSun- Would love to hear from you guys!! @{' '}
+        -SanSun- Would love to hear from you guys!! at{' '}
         <ExtLink href="https://scratch.mit.edu/users/-SanSun-/">Scratch</ExtLink>
       </div>
 
