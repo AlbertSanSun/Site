@@ -19,7 +19,9 @@ export default () => (
         <p>
           About this site:
            Go to the site's Github Repository.
-          
+        </p>
+        
+         <p>
           Now about the owner of this site:
           This site owner is me Sanjay but I would like you to call me SanSun or AlbertSanSun on the Internet.(Unless ur my Relatives or Friends)
           I am currently in grade 8th and currently learning python, JS, HTML. I love Maths and Science and 
