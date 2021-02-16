@@ -9,7 +9,7 @@ export default () => (
   <>
     <Header titlePre="Home" />
     <div className={sharedStyles.layout}>
-      <img src="/demo.png" width="60%" alt="page top" />
+      <img src="https://raw.githubusercontent.com/AlbertSanSun/notion-blog/master/Demo.jpg" width="60%" alt="page top" />
       <h1>SanSun Website</h1>
       <h2></h2>
 
