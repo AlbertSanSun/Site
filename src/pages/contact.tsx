@@ -43,8 +43,8 @@ export default () => (
       <h1 style={{ marginTop: 0 }}>Contact</h1>
 
       <div className={contactStyles.name}>
-        -SanSun- Would love to hear from you guys!! at{' '}
-        <ExtLink href="https://scratch.mit.edu/users/-SanSun-/">Scratch</ExtLink>
+        -SanSun- Would love to hear from you guys at{' '}
+        <ExtLink href="https://scratch.mit.edu/users/-SanSun-/">Scratch!!</ExtLink>
       </div>
 
       <div className={contactStyles.links}>
