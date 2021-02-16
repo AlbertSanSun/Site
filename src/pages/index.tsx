@@ -25,7 +25,6 @@ export default () => (
           I am currently in grade 8th and currently learning python, JS, HTML. I love Maths and Science and 
           I'm really good at them. I have created many Youtube Channels (and deleted a lot of them, because I couldn't manage
           them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...
-          I love Potatoes and hate Brijals.
         </p>
       </div>
     </div>
