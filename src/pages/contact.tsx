@@ -11,7 +11,7 @@ import LinkedIn from '../components/svgs/linkedin'
 
 const contacts = [
   {
-    Comp: ,
+    Comp: Twitter,
     alt: '',
     link: '',
   },
@@ -21,7 +21,7 @@ const contacts = [
     link: 'https://github.com/AlbertSanSun',
   },
   {
-    Comp: ,
+    Comp: LinkedIn,
     alt: '',
     link: '',
   },
