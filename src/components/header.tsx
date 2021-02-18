@@ -21,14 +21,14 @@ export default ({ titlePre = '' }) => {
       <Head>
         <title>{titlePre ? `${titlePre} |` : ''} SanSun Site</title>
         <meta
-          name="description"
+          name="SanSun site"
           content="The Site of Sanjay or SanSun as he would like you to call."
         />
         <meta name="og:title" content="Sanjay, SanSun, -SanSun-, AlbertSanSun, Albert, S, Joke, Hi" />
-        <meta property="og:image" content={ogImageUrl} />
-        <meta name="twitter:site" content="@_ijjk" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={ogImageUrl} />
+        <meta property="og:image" content={https://raw.githubusercontent.com/AlbertSanSun/notion-blog/master/Demo.jpg} />
+        <meta name="twitter:site" content="@sansun" />
+        <meta name="twitter:card" content="https://raw.githubusercontent.com/AlbertSanSun/notion-blog/master/Demo.jpg" />
+        <meta name="twitter:image" content={https://raw.githubusercontent.com/AlbertSanSun/notion-blog/master/Demo.jpgl} />
       </Head>
       <ul>
         {navItems.map(({ label, page, link }) => (
