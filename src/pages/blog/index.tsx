@@ -88,7 +88,7 @@ export default ({ posts = [], preview }) => {
               )}
               <p>
                 {(!post.preview || post.preview.length === 0) &&
-                  'No preview available'}
+                  'Go inside!'}
                 {(post.preview || []).map((block, idx) =>
                   textBlock(block, true, `${post.Slug}${idx}`)
                 )}
