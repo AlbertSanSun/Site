@@ -21,7 +21,7 @@ export default () => (
         </p>
         
          <p>
-          This site owner is me Sanjay but I would like you to call me SanSun or AlbertSanSun on the Internet. (Unless ur my Relatives or Friends)
+          This site owner is me Sanjay, but I would like you to call me SanSun or AlbertSanSun on the Internet. (Unless your my Relatives or Friends)
           I am currently in grade 8th and currently learning python, JS, HTML. I love Maths and Science and 
           I'm really good at them. I have created many Youtube Channels (and deleted a lot of them, because I couldn't manage
           them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...
