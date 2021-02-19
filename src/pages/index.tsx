@@ -17,7 +17,7 @@ export default () => (
 
       <div className="explanation">
         <p>
-          To know about the site go to its Github Repository.
+          To know about the me go to my Github Account Page.
         </p>
         
          <p>
