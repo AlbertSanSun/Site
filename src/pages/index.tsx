@@ -16,9 +16,7 @@ export default () => (
       {/* <Features /> */}
 
       <div className="explanation">
-        <p>
-          To know about the me go to my Github Account Page.
-        </p>
+        
         
          <p>
           This site owner is me Sanjay, but I would like you to call me SanSun or AlbertSanSun on the Internet (Unless your my Relatives or Friends).
@@ -26,6 +24,11 @@ export default () => (
           I'm really good at them. I have created many Youtube Channels (and deleted a lot of them, because I couldn't manage
           them. But I am sure I will manage the last one.) Most of them where based on Maths and Science, but this one will be special...
         </p>
+        
+        <p>
+          To know more about me go to my Github Account Page.
+        </p>
+        
       </div>
     </div>
   </>
