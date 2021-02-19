@@ -13,7 +13,7 @@ const contacts = [
   {
     Comp: Twitter,
     alt: '',
-    link: '',
+    link: 'https://albertsansun.github.io/Don-t/',
   },
   {
     Comp: GitHub,
@@ -23,12 +23,12 @@ const contacts = [
   {
     Comp: LinkedIn,
     alt: '',
-    link: '',
+    link: 'https://albertsansun.github.io/Don-t/',
   },
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:explorist20@gmail.com?subject=Notion Blog',
+    link: 'mailto:explorist20@gmail.com?subject=Hi Sanjay!',
   },
 ]
 
@@ -44,7 +44,7 @@ export default () => (
 
       <div className={contactStyles.name}>
         -SanSun- Would love to hear from you guys at{' '}
-        <ExtLink href="https://scratch.mit.edu/users/-SanSun-/">Scratch!!</ExtLink>
+        <ExtLink href="https://github.com/AlbertSanSun/">Github!!</ExtLink>
       </div>
 
       <div className={contactStyles.links}>
