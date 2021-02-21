@@ -8,7 +8,7 @@ const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'Home', page: '/' },
   { label: 'Blog', page: '/blog' },
   { label: 'Contact', page: '/contact' },
-  { label: 'My Github Account Page', link: 'https://github.com/AlbertSanSun/' },
+  { label: 'Github Account', link: 'https://github.com/AlbertSanSun/' },
   { label: 'YouTube', link: 'https://www.youtube.com/channel/UC6zat7lWOqSETJmUq2B_Htg/about' },
 ]
 
