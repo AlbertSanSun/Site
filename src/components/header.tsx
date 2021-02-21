@@ -8,11 +8,11 @@ const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'Home', page: '/' },
   { label: 'Blog', page: '/blog' },
   { label: 'Contact', page: '/contact' },
-  { label: 'Github Account', link: 'https://github.com/AlbertSanSun/' },
+  { label: 'Github', link: 'https://github.com/AlbertSanSun/' },
   { label: 'YouTube', link: 'https://www.youtube.com/channel/UC6zat7lWOqSETJmUq2B_Htg/about' },
 ]
 
-const ogImageUrl = 'https://notion-blog.now.sh/og-image.png'
+const ogImageUrl = 'https://raw.githubusercontent.com/AlbertSanSun/notion-blog/master/Demo.jpg'
 
 export default ({ titlePre = '' }) => {
   const { pathname } = useRouter()
